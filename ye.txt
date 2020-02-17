@@ -1,0 +1,12 @@
+
+
+esto
+sera
+un maldito salto de linea
+y es una prueba...
+
+jajaja
+
+Esto no funciona. Vamos a probar una pedazo de frase en el documento: "Todo lo que hace falta es un poco de perspectiva".
+
+

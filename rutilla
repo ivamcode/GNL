@@ -1,0 +1,10 @@
+Para probar varios fds necesitaremos varios archivos y uno de ellos contendra una linea muy larga para prbar que es impresa bien. Esperemos que sea positiva la prueba.
+Kerberos es un protocolo de autenticacion que permite verificar la identidad de alguien en una red mediante tickets.
+
+Haremos que este archivo tenga 10 lineas.
+
+Siendo la ultima un salto de linea.
+Es decir, un '\n'.
+
+Good luck!!
+
